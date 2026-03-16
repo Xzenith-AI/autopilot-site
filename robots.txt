@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xzenith-ai.github.io/autopilot-site/sitemap.xml
